@@ -6,4 +6,4 @@ Roll v5a
 Our complete project in Android.
 Runs on an Android Virtual Device or physical smartphone
 
-Additional documents
+GROUPPROJECT includes release notes and additional documents
